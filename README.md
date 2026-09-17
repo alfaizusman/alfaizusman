@@ -1,30 +1,67 @@
-<h1 align="center">Hi 👋, I'm Alfaiz Usman</h1>
-<h3 align="center">A student learning Computer Science & programming</h3>
+<body>
+  <center>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfaizusman" alt="alfaizusman" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **CS50X / C programming**
+<h1>~🥀  𝑊𝑒𝑙𝑐𝑜𝑚𝑒 𝑡𝑜 𝐴𝑙𝑓𝑎𝑖𝑧'𝑠 𝑃𝑟𝑜𝑓𝑖𝑙𝑒  🥀~</h1>
 
-- 🌱 I’m currently learning **C, Arrays, Git & GitHub**
+<a href="https://discord.com/users/744444138673668136">
+  <img src="https://lanyard.kyrie25.dev/api/744444138673668136?imgStyle=circle&animatedDecoration=true&hideProfile=false&showDisplayName=true&showBanner=animated&bannerFilter=blur(2px)%20brightness(0.8)&waveColor=transparent&gradient=7E37F9-B48EF7-E568C4&waveSpotifyColor=transparent&borderRadius=20px&hideStatus=true" />
+</a>
 
-- 👯 I’m looking to collaborate on **Beginner-friendly projects**
+<br>
 
-- 🤝 I’m looking for help with **C programming & problem solving**
+<p><a href="https://youtu.be/APWlz2hk9Dg">~ ᴍᴀ ᴄʜᴇʀɪᴇ | ᴍᴀʟɪᴄᴇ ᴍɪᴢᴇʀ ~</a></p>
 
-- 💬 Ask me about **C, gaming & tech**
-
-- 📫 How to reach me **alfaizusman9151@gmail.com**
-
-- ⚡ Fun fact **I like getting bonked in souls games.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alfaizusmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alfaizusmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alfaiz-usman-a4144a403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfaiz-usman-a4144a403" height="30" width="40" /></a>
-<a href="https://instagram.com/alfaizusmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfaizusmann" height="30" width="40" /></a>
+</div>
+    <div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+      </div>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+  </div>
+<li>
+ <b>Name:</b> Miella Selene</li>
+<li>
+<b>Loves:</b> anime, osu, rhythm games
+</li>
+<li>
+<b>Gender:</b> she/her/Female
+</li>
+<li>
+<b>LastFM:</b> https://scrobble.egirl.ing
+</li>
+<li>
+<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
+</li>
+<br><br><br><br>
+</div>
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="f" align="right">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+There are many more things, but this site doesn't have a Linux badge, 
+  so this will do for the meantime.
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfaizusman&show_icons=true&locale=en" alt="alfaizusman" /></p>
+<br>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
