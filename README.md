@@ -16,9 +16,9 @@
 <p>𝒩𝓊𝓇𝓊𝓇𝓊 ℛℯ𝓇ℴℛℯ𝓇ℴ</p>
 <p><a href="https://youtu.be/APWlz2hk9Dg?si=NjOvuiT0gl0Sv_tM&t=44">~ 𝙼𝙰 𝙲𝙷𝙴𝚁𝙸𝙴 | 𝙼𝙰𝙻𝙸𝙲𝙴 𝙼𝙸𝚉𝙴𝚁 ~</a></p>
     </div>
-<h2 align="center">  ✌🏻 ~~ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 𝐓𝐰𝐢𝐧 ~~ ✌🏻 </h2>
+<h2 align="center">  ✌🏻 ~~ 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 𝑻𝒘𝒊𝒏 ~~ ✌🏻 </h2>
   <div align="center">
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-26-chainsaw-man-animation.gif" align="right" width="250">
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-26-chainsaw-man-animation.gif" align="right" width="220">
   </div>
 <li>
  <b>Name:</b> <i>Alfaiz Usman</i></li>
@@ -37,7 +37,7 @@
 <br><br><br><br>
 </div>
 <div>
-<h2 align="center">            📇 ~~ 𝐒𝐤𝐢𝐥𝐥𝐬 ~~ 📇 </h2>
+<h2 align="center">            📇 ~~ 𝑲𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 ~~ 📇 </h2>
  <br>
 <p>
   <div align="center">
@@ -53,7 +53,7 @@
 </p>
 <br>
 
-  <h2 align="center">            🔗 ~~ 𝐅𝐢𝐧𝐝 𝐌𝐞 𝐄𝐥𝐬𝐞𝐰𝐡𝐞𝐫𝐞 ~~ 🔗 </h2>
+  <h2 align="center">            🔗 ~~ 𝑭𝒊𝒏𝒅 𝒎𝒆 𝒆𝒍𝒔𝒆𝒘𝒉𝒆𝒓𝒆 ~~ 🔗 </h2>
  <br>
 <p>
   <div align="center">
@@ -72,7 +72,7 @@ If I’m not here, I’m probably wasting time somewhere else.
 <br>
 <br>
 <div>
-<h2 align="center"> 🫂 ~~𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐠𝐧𝐠 ~~ 🫂</h2>
+<h2 align="center"> 🫂 ~~ 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒓𝒆𝒂𝒅𝒊𝒏𝒈 𝒈𝒏𝒈 ~~ 🫂</h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/hJ3lU7KvcT0AAAAd/kuni-jojokuni.gif">
       </div>
