@@ -10,9 +10,12 @@
 <div>
   </div>
     <div align="center">
-<p><a href="https://youtu.be/APWlz2hk9Dg?si=NjOvuiT0gl0Sv_tM&t=44">~ ᴍᴀ ᴄʜᴇʀɪᴇ | ᴍᴀʟɪᴄᴇ ᴍɪᴢᴇʀ ~</a></p>
+      <p>𝒞𝒽𝓊𝒞𝒽𝓊 ℒℴ𝓋ℯ𝓁𝓎</p>
+  <p>ℳ𝓊𝓃𝒾ℳ𝓊𝓃𝒾 ℳ𝓊𝓇𝒶ℳ𝓊𝓇𝒶</p>
+  <p>𝒫𝓇𝒾𝓃𝒫𝓇𝒾𝓃 ℬℴ𝓇ℴ𝓃</p>
+<p>𝒩𝓊𝓇𝓊𝓇𝓊 ℛℯ𝓇ℴℛℯ𝓇ℴ</p>
+<p><a href="https://youtu.be/APWlz2hk9Dg?si=NjOvuiT0gl0Sv_tM&t=44">~ 𝙼𝙰 𝙲𝙷𝙴𝚁𝙸𝙴 | 𝙼𝙰𝙻𝙸𝙲𝙴 𝙼𝙸𝚉𝙴𝚁 ~</a></p>
     </div>
-    
 <h2 align="center">  ✌🏻 ~~ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 𝐓𝐰𝐢𝐧 ~~ ✌🏻 </h2>
   <div align="center">
 <img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-26-chainsaw-man-animation.gif" align="right" width="250">
@@ -26,7 +29,7 @@
 <b>Loves:</b> <i>Coding, Gaming, Anime, Larping, Manga & Music</i>
 </li>
 <li>
-<b>Favorite game:</b> <i>Bloodborne, My Beloved</i>
+<b>Favorite game:</b> <i>Bloodborne, DMC3, Resident Evil</i>
 </li>
 <li>
 <b>Steam:</b> <a href="https://steamcommunity.com/profiles/76561199884321179"> https://steamcommunity.com/profiles/76561199884321179 </a>
