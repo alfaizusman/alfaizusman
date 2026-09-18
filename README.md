@@ -18,23 +18,23 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center">  ~~ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ~~ </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RmNGlpNHVxOXg2MHYzNHNmbHNham0yYXp5d3R6N2ZsOXQyZHpucyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IRc9JV4BrdqH6/giphy.gif" align="right" width="200">
   </div>
 <li>
- <b>Name:</b> Miella Selene</li>
+ <b>Name:</b> Alfaiz Usman</li>
 <li>
-<b>Loves:</b> anime, osu, rhythm games
+<b>Loves:</b> Coding, Gaming, Anime, Music
 </li>
 <li>
-<b>Gender:</b> she/her/Female
+<b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
+<b>Steam:</b> <a href="https://steamcommunity.com/profiles/76561199884321179"> Profile </a>
 </li>
 <li>
-<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
+<b>Favorite Game:</b> Bloodborne, My Beloved
 </li>
 <br><br><br><br>
 </div>
