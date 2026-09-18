@@ -15,7 +15,7 @@
     
 <h2 align="center">  ✌🏻 ~~ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 𝐓𝐰𝐢𝐧 ~~ ✌🏻 </h2>
   <div align="center">
-<img src="https://imgs.search.brave.com/F2kVdtrovJpUc04gJM0nfzBNXww3Td30r-QbqkazMb0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/MnptbWd2MTNNd3NB/QUFBTS9jaGFpbnNh/dy1tYW4tY3NtLmdp/Zg.gif" align="right" width="180">
+<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-26-chainsaw-man-animation.gif" align="right" width="250">
   </div>
 <li>
  <b>Name:</b> <i>Alfaiz Usman</i></li>
@@ -38,7 +38,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://www.gifcen.com/wp-content/uploads/2022/11/denji-gif-3.gif" align="left" width="395">
+<img src="https://imgs.search.brave.com/8fWdlAr8jlZvgPVYO5bRyZI5-AaU7yckR_5MHdg4QSQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9y/ZWktYXlhbmFtaS1z/dGFyaW5nLWF0LXdp/bmRvdy16MTFhaTQ3/MjNjbTNmY2Y4Lmdp/Zg.gif" align="right" width="410">
   </div>
 </div>
 <div>
@@ -54,7 +54,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://www.gifcen.com/wp-content/uploads/2022/11/denji-gif-3.gif" align="right" width="3">
+<img src="https://www.gifcen.com/wp-content/uploads/2022/11/denji-gif-3.gif" align="left" width="375">
   </div>
 </div>
 <div>
@@ -62,13 +62,16 @@
 <p align="center">
 <a href="https://github.com/alfaizusman"><img src="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://twitter.com/alfaizusmann"><img src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/></a> <a href="https://instagram.com/alfaizusmann"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/></a><br>
 <a href="https://www.linkedin.com/in/alfaiz-usman-a4144a403"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://steamcommunity.com/profiles/76561199884321179"><img src="https://img.shields.io/badge/Steam-000000?&style=for-the-badge&logo=steam&logoColor=white"/></a> <br><br>
+If I’m not here, I’m probably wasting time somewhere else.
+  <br>
+  <br>
 </p>
 <br>
 <br>
 <div>
 <h2 align="center"> 🫂 ~~𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐠𝐧𝐠 ~~ 🫂</h2>
 <div align="center">
-<img src="https://usagif.com/wp-content/uploads/2022/hqgif/chenso-man-38-huge-boom-power-acegif.gif">
+<img src="https://media1.tenor.com/m/hJ3lU7KvcT0AAAAd/kuni-jojokuni.gif">
       </div>
 <hr>
 </div>
